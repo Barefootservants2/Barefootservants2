@@ -5,7 +5,7 @@ Fort Monroe, VA · [LinkedIn](https://www.linkedin.com/in/ashes2echoes) · ashes
 Forty years in engineering and program delivery — started as a pipefitter at Newport News Shipbuilding in 1983, worked up through marine design, systems engineering, and program management to engagement-level leadership at Siemens. Most of the career was the assignments nobody else wanted: failing programs, troubled accounts, loose ends closed after everyone else had gone home. Now building and evaluating multi-model AI systems full time.
 
 ## What I do now
-**Principal & AI Systems Architect, Ashes2Echoes LLC (A2E)** — founded 2024 · building since August 2024 · full time since October 2025
+**Principal & AI Systems Architect, Ashes2Echoes LLC (A2E)** — building since August 2024 · full time since October 2025
 
 - Designed, built, and operate — solo — a production multi-agent AI platform ("the Collective"): five frontier models (Claude, GPT, Grok, Gemini, DeepSeek) run side by side on the same tasks, with outputs scored for accuracy, consistency, bias, and evidentiary support.
 - Authored the platform's governing protocol stack — prime directive (METATRON), risk rules (IRONCLAD), session continuity (PHOENIX) — maintained as versioned, changelogged engineering documents.
