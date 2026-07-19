@@ -1,8 +1,8 @@
 # William Earl Lemon
 
-Fort Monroe, VA · [LinkedIn](https://www.linkedin.com/in/ashes2echoes) · ashes2echoes.platform@gmail.com
+Fort Monroe, VA · [LinkedIn](https://www.linkedin.com/in/ashes2echoes) · ashes2echoes.platform@outlook.com
 
-Forty years in engineering and program delivery — started as a pipefitter at Newport News Shipbuilding in 1983, worked up through marine design, systems engineering, and program management to engagement-level leadership at Siemens. Now building and evaluating multi-model AI systems full time.
+Forty years in engineering and program delivery — started as a pipefitter at Newport News Shipbuilding in 1983, worked up through marine design, systems engineering, and program management to engagement-level leadership at Siemens. Most of the career was the assignments nobody else wanted: failing programs, troubled accounts, loose ends closed after everyone else had gone home. Now building and evaluating multi-model AI systems full time.
 
 ## What I do now
 **Principal & AI Systems Architect, Ashes2Echoes LLC (A2E)** — building since August 2024, incorporated 2025, full time since
