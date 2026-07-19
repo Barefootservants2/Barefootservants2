@@ -1,6 +1,6 @@
 # William Earl Lemon
 
-Newport News, VA · [LinkedIn](https://linkedin.com/in/ashe2echoes)
+Fort Monroe, VA · [LinkedIn](https://www.linkedin.com/in/ashes2echoes) · ashes2echoes.platform@outlook.com
 
 Engineering and program-delivery background (25+ years), now building and evaluating multi-model AI systems full-time.
 
