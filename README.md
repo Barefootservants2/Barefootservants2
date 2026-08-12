@@ -1,6 +1,6 @@
 # William Earl Lemon
 
-Fort Monroe, VA · [LinkedIn](https://www.linkedin.com/in/ashes2echoes) · ashes2echoes.platform@gmail.com
+Fort Monroe, VA · [LinkedIn](https://www.linkedin.com/in/ashes2echoes) · ashes2echoes.platform@outlook.com
 
 I build the measurement layer for AI output — systems that score
 language-model responses against fixed rubrics, refuse results they
@@ -42,4 +42,4 @@ Domains: mechanical, marine, and structural engineering; CAD/3D; PLM (Teamcenter
 Open to contract, contributor-level AI evaluation and data-annotation work — assessing model outputs, not managing teams.
 
 - Anthropic Trusted Tester
-- IBM Agentic AI Professional Certificate — in progress (2026)
+- Anthropic AI Architect Certifcation — in progress (2026)
