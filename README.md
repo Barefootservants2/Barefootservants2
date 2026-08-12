@@ -19,7 +19,7 @@ Siemens in 2025. Mostly the assignments nobody wanted — failing
 programs, troubled accounts, loose ends closed after everyone else
 went home. That's still the part I like.
 
-**Ashes2Echoes, LLC** · Virginia, 2025 · Anthropic Trusted Tester
+**Ashes2Echoes, LLC** · Virginia, 2025 · MagAI (Dustin Stout - CEO) Trusted Tester for adding Anthropic MCP Server Protocols to the MagAI platform.
 
 *Working repositories are private.*
 
