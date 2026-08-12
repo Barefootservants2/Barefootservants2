@@ -28,7 +28,7 @@ Before this: forty years in defense shipbuilding and enterprise software. Pipefi
 
 Siemens DISW (engagement management, services) · Siemens Government Technologies (U.S. Army / NAVAIR / NCMS programs) · HII Technical Solutions/AMSEC (built the PLM practice) · Hexagon/Intergraph (global S3D certification lead) · ICT (defense CAD/PLM consulting) · Boeing (767-400ER liaison engineering) · Newport News Shipbuilding (marine design, SSN 688 and carrier programs).
 
-Domains: mechanical, marine, and structural engineering · CAD/3D · PLM (Teamcenter/NX, SmartMarine3D) · defense acquisition · contracts and procurement.
+Domains: mechanical, marine, and structural engineering · CAD/3D · PLM (Teamcenter/NX, SmartMarine3D) · defense acquisition · contracts/sub-contracts and procurement.
 
 ---
 
@@ -36,6 +36,6 @@ Domains: mechanical, marine, and structural engineering · CAD/3D · PLM (Teamce
 
 Contributor-level research and analysis work — digging into data, writing up what I found, checking my own work before anyone else has to.
 
-Anthropic Trusted Tester · IBM Agentic AI Professional Certificate (in progress, 2026)
+Anthropic Trusted Tester · Anthropic Architect Certification (in progress, 2026)
 
 *Working repositories are private.*
