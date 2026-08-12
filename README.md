@@ -2,7 +2,26 @@
 
 Fort Monroe, VA · [LinkedIn](https://www.linkedin.com/in/ashes2echoes) · ashes2echoes.platform@gmail.com
 
-Forty years in engineering and program delivery — started as a pipefitter at Newport News Shipbuilding in 1983, worked up through marine design, systems engineering, and program management to engagement-level leadership at Siemens. Most of the career was the assignments nobody else wanted: failing programs, troubled accounts, loose ends closed after everyone else had gone home. Now building and evaluating multi-model AI systems full time.
+I build the measurement layer for AI output — systems that score
+language-model responses against fixed rubrics, refuse results they
+can't trace, and get frozen so the ruler doesn't move while you're
+reading it.
+
+A hundred-plus production workflows, a defect registry I keep against
+my own platform, and a rule that nothing is called fixed without a
+live test in the same session. I run Claude, GPT, Grok, Gemini and
+DeepSeek side by side on the same tasks and score them for accuracy,
+bias, consistency and evidentiary support.
+
+Before this: forty years in defense shipbuilding and enterprise
+software. Pipefitter at Newport News in 1983, engagement manager at
+Siemens in 2025. Mostly the assignments nobody wanted — failing
+programs, troubled accounts, loose ends closed after everyone else
+went home. That's still the part I like.
+
+**Ashes2Echoes, LLC** · Virginia, 2025 · Anthropic Trusted Tester
+
+*Working repositories are private.*
 
 ## What I do now
 **Principal & AI Systems Architect, Ashes2Echoes LLC (A2E)** — building since August 2024 · incorporated April 2025 · full time since October 2025
