@@ -12,15 +12,14 @@ Before this: forty years in defense shipbuilding and enterprise software. Pipefi
 
 ## What I do now
 
-**Principal & AI Systems Architect — Ashes2Echoes, LLC**
-*Incorporated April 2025 · full time since October 2025*
+**Principal & Technical Program Leader, AI Evaluation and Automation Governance — Ashes2Echoes LLC**
+*Incorporated April 2025. Current work focuses on AI evaluation, automation governance, source-tracked documentation, workflow containment, and practical review systems for human-approved automation.*
 
-- Designed, built, and operate — solo — a production multi-agent platform: five frontier models (Claude, GPT, Grok, Gemini, DeepSeek) run side by side on the same tasks, with outputs scored for accuracy, consistency, bias, and evidentiary support.
-- Authored the platform's governing protocol stack — prime directive, risk rules, session continuity — maintained as versioned, changelogged engineering documents rather than conventions in anyone's head.
-- Engineered fail-closed: write operations verify their own commits by hash and byte count, credential health is probed automatically, and the access registry rebuilds itself daily.
-- Practice adversarial verification: grade AI and system claims against source-of-truth data, reject anything unproven, and record each judgment on a hash-chained audit ledger.
-- Hard human-in-the-loop rail by design: consequential external actions require a cryptographically signed staging step plus explicit human authorization.
-- Stack: n8n · Supabase/PostgreSQL · OAuth 1.0a (HMAC-SHA1) · GitHub read/write rails · MCP services.
+- Build and document AI evaluation workflows that compare model outputs against defined criteria, source evidence, and review gates.
+- Maintain version-controlled documentation for prompts, procedures, rebuild decisions, and operating assumptions.
+- Design human-in-the-loop controls so analysis, recommendations, and actions remain separated until explicitly approved.
+- Use GitHub, Supabase, automation tools, and AI assistants to test practical governance patterns for repeatable work.
+- Preserve defects, limitations, and unresolved questions instead of treating fluent AI output as proof.
 
 ---
 
