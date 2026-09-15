@@ -1,6 +1,6 @@
 # William Earl Lemon
 
-Fort Monroe, VA · [LinkedIn](https://www.linkedin.com/in/ashes2echoes) · ashes2echoes.platform@outlook.com
+Fort Monroe, VA · [LinkedIn](https://www.linkedin.com/in/ashes2echoes) · ashes2echoes.platform@gmail.com
 
 I build and document practical AI evaluation and automation-governance workflows: systems of review that score model outputs against defined criteria, preserve evidence, track versions, and separate analysis from action.
 
