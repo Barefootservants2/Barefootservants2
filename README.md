@@ -2,7 +2,7 @@
 
 Fort Monroe, VA · [LinkedIn](https://www.linkedin.com/in/ashes2echoes) · ashes2echoes.platform@outlook.com
 
-I build the measurement layer for AI output — systems that score language-model responses against fixed rubrics, refuse results they can't trace, and get frozen so the ruler doesn't move while you're reading it.
+I build and document practical AI evaluation and automation-governance workflows: systems of review that score model outputs against defined criteria, preserve evidence, track versions, and separate analysis from action.
 
 A hundred-plus production workflows, a defect registry I keep against my own platform, and a rule that nothing is called fixed without a live test in the same session.
 
